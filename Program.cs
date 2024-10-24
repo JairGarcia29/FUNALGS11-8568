@@ -33,5 +33,7 @@
             Console.WriteLine($"Los numeros impares son: {impar}");
         }
         
-    }       
+    }     
+    Console.WriteLine("Viva eL Per(U)")
+    
 }
