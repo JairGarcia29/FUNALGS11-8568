@@ -25,3 +25,5 @@ for (int x = 0; x < edificio2.Length; x++) {
         break;
     }
 }
+Console.WriteLine("queloque");
+Console.WriteLine("correcion 3");
